@@ -1,0 +1,25 @@
+# Site settings
+title: Bear IT Group
+header-img: img/bears11.jpg
+email: bear.it.group@gmail.com
+copyright_name: Bear IT Group
+description: "Golden based bear IT group"
+baseurl: ""
+url: "localhost:4000"
+twitter_username: bear-it-group
+#github_username:  bear-it-group
+facebook_username:  bear-it-group
+email_username:  bear.it.group@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
