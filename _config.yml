@@ -4,8 +4,8 @@ header-img: img/bears11.jpg
 email: bear.it.group@gmail.com
 copyright_name: Bear IT Group
 description: "Golden based bear IT group"
-baseurl: ""
-url: "localhost:4000"
+baseurl: "/bearsite2"
+url: "https://bear-it-group.github.io"
 twitter_username: bear-it-group
 #github_username:  bear-it-group
 facebook_username:  bear-it-group
